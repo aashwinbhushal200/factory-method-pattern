@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FactoryMethodPattern": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "c": "Release"
+      }
+    }
+  }
+}
